@@ -69,7 +69,9 @@ defaults write com.google.Chrome.canary AppleEnableSwipeNavigateWithScrolls -boo
 defaults write com.apple.finder NewWindowTarget -string "PfLo"
 defaults write com.apple.finder NewWindowTargetPath -string "file:///Users/josh-gree/"
 
-
+# conda installs
 conda install -c conda-forge jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 
+# pip installs
+pip install autopep8
