@@ -27,5 +27,6 @@ cask "atom"
 cask "firefox"
 cask "google-chrome"
 cask "docker"
+cask "evernote"
 
 brew "docker-compose"
