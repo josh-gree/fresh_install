@@ -29,4 +29,5 @@ cask "google-chrome"
 cask "docker"
 cask "evernote"
 
+# compose is not a cask!?
 brew "docker-compose"
