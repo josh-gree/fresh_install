@@ -16,8 +16,6 @@ cp files/env_vars.zsh ~/.oh-my-zsh/custom/
 cp files/ipython_config.py ~/.ipython/profile_default/
 cp files/jupyter_notebook_config.py ~/.jupyter/
 #
-# # move ipython start to default profile
-cp files/ipython_start.py ~/.ipython/profile_default/startup/
 
 ## macos defaults
 # Taken from @mathiasbynens dot files
